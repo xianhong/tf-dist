@@ -1,0 +1,7 @@
+**/temp_training_states/
+**/__pycache__/
+**/keras-ckpt/
+**/checkpoint
+**/keras-ckpt.*
+**/.ipynb_checkpoints/
+cpu_or_single_gpu/autoencoder.ipynb
